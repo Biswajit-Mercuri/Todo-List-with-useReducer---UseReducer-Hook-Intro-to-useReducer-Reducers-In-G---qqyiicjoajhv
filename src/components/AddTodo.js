@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Todo } from "./Todo";
-
 import "../styles/App.css";
 
 const AddTodo = ({ dispatch, state }) => {
